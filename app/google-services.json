@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "671439710702",
+    "firebase_url": "https://moots-client-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "moots-client",
+    "storage_bucket": "moots-client.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671439710702:android:e842a4a725701bec4246ff",
+        "android_client_info": {
+          "package_name": "app.android.mootsadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHdT2RcvfoCGWLBC2r9yJHc_DAk0Ip1bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671439710702:android:4674c936e0014e214246ff",
+        "android_client_info": {
+          "package_name": "app.android.mootsclient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHdT2RcvfoCGWLBC2r9yJHc_DAk0Ip1bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
